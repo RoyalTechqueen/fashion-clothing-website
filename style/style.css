@@ -427,7 +427,7 @@ header h1 {
   .landing .container {
     z-index: 1;
     position: absolute;
-    top: 50%;
+    top: 56%;
     right: 50%;
     transform: translate(50%, -50%);
     text-align: center;
