@@ -427,7 +427,7 @@ header h1 {
   .landing .container {
     z-index: 1;
     position: absolute;
-    top: 56%;
+    top: 50%;
     right: 50%;
     transform: translate(50%, -50%);
     text-align: center;
@@ -446,8 +446,8 @@ header h1 {
     width: 90vw;
   }
   .gallery .card-container .card .card-img img {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
  
   .live-map {
